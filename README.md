@@ -4,4 +4,4 @@
   - Subitem
 - Item 2
 
-<b>This is a project about twitter to analyze customer bank data.</b>
+<b>This is a project to analyze bank customer and twitter data.</b>
